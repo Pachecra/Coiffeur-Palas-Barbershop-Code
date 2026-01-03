@@ -1,0 +1,8 @@
+{
+  "name": "Coiffeur Palas & Barbershop",
+  "description": "Experiencia web inmersiva para una barbería de lujo en Fuengirola.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
